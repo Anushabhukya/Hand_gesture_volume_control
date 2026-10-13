@@ -101,13 +101,15 @@ The exact distance-to-volume mapping depends on the implementation in `VolumeHan
 
 When the thumb and index finger are close together, the program can set the system volume to 0%, depending on the configured distance mapping.
 
-![Hand gesture volume control at 0 percent](screenshots/volume-0.png)
+<img width="791" height="643" alt="volume-0" src="https://github.com/user-attachments/assets/1e8a5c9b-02bf-4984-bbbb-ced547ffb3b0" />
+
 
 ### Volume Control at 50%
 
 At a moderate distance between the thumb and index finger, the program can set the system volume to approximately 50%, depending on the configured mapping.
 
-![Hand gesture volume control at 50 percent](screenshots/volume-50.png)
+<img width="785" height="633" alt="volume-50" src="https://github.com/user-attachments/assets/1e95314a-6df5-418e-9230-c70f02d6568e" />
+
 
 *These screenshots should be captured from the actual running application, showing the hand landmarks and Windows volume indicator.*
 
